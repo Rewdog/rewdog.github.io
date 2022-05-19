@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Compressor | Cyber Apocalypse CTF 2022 from HackTheBox
+title: Cyber Apocalypse CTF 2022 from HackTheBox
 ---
 # Cyber Apocalypse CTF 2022 from HackTheBox
 ![May 14-20th 2022](cyber_apocalypse_2022_ca.jpg)
 
 ## Web
 - ~~[Kryptos Support](kryptos-support)~~ Coming Soon
-- ~~[Admidst Us](admidst-us)~~ Coming Soon
+- [Amidst Us](amidst-us) TL;DR version
 - [Mutation Lab](mutation-lab) TL;DR version
 
 ## Pwn
@@ -15,8 +15,8 @@ title: Compressor | Cyber Apocalypse CTF 2022 from HackTheBox
 - [Space Pirate: Going Deeper](going-deeper)
 
 ## Reversing
-- ~~[WIDE](wide)~~ Coming Soon
-- ~~[Omega One](omega-one)~~ Coming Soon
+- [WIDE](wide) TL;DR version
+- [Omega One](omega-one) TL;DR version
 
 ## Forensics
 - [Puppeteer](puppeteer)TL;DR version
