@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rewdog.com
+title: Puppeteer | Cyber Apocalypse CTF 2022 from HackTheBox
 ---
 # [Cyber Apocalypse CTF 2022 from HackTheBox](../) - Puppeteer
 
