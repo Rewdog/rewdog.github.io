@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rewdog.com
+title: Compressor | Cyber Apocalypse CTF 2022 from HackTheBox
 ---
 # Cyber Apocalypse CTF 2022 from HackTheBox
 ![May 14-20th 2022](cyber_apocalypse_2022_ca.jpg)

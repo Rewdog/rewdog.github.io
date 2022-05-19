@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rewdog.com
+title: CTF Write-ups
 ---
 # CTFs
 ## CSAM

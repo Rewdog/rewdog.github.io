@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rewdog.com
+title: Mutation Lab | Cyber Apocalypse CTF 2022 from HackTheBox
 ---
 # [Cyber Apocalypse CTF 2022 from HackTheBox](../) - Mutation Lab
 

@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Rewdog.com
+title: Home
 ---
 # Placeholding
 Some things I'd like to put here:
-- [Tutorials](tutorials)
-    - [CTFs](ctfs)
+- [CTFs](ctfs)
 - Thoughts
 - Links to my projects
 - Links to things I care about
