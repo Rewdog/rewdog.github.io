@@ -8,7 +8,7 @@ title: Rewdog.com
 ## Web
 - ~~[Kryptos Support](kryptos-support)~~ Coming Soon
 - ~~[Admidst Us](admidst-us)~~ Coming Soon
-- ~~[Mutation Lab](mutation-lab)~~ Coming Soon
+- [Mutation Lab](mutation-lab) TL;DR version
 
 ## Pwn
 - [Space Pirate: Entrypoint](entrypoint)
@@ -20,7 +20,7 @@ title: Rewdog.com
 
 ## Forensics
 - ~~[Puppeteer](puppeteer)~~ Coming Soon
-- ~~[Golden Persistence](golden-persistence)~~ Coming Soon
+- [Golden Persistence](golden-persistence) TL;DR version
 - [Automation](automation)
 
 ## Misc
