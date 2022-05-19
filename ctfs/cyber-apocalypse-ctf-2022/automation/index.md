@@ -20,7 +20,7 @@ From the packet capture, get the powershell script disguised as desktop.png. The
 
 I have heard of DNS exfiltration but never really explored it in detail, so this was a fun challenge. Loading up the pcap into wireshark and browsing the plain-text traffic, a download of `desktop.png` caught my eye, as the response was base64 and didn't really look like the contents of an image.
 
-![wireshark capture](desktop.png)
+[![wireshark capture](desktop.png)](desktop.png)
 
 Running a `base64 -d` on the file contents reveals the following powershell script:
 
@@ -105,7 +105,7 @@ Below that, we can see a DNS server at `147.182.172.189` masquerading as `window
  4. Push A records back to the server in the form `ENCRYPTEDOUTPUT.windowsliveupdater.com` in between records for `start.windowsliveupdater.com` and `end.windowsliveupdater.com`, 
 
 We find the first call for for the `TXT` records and locate some base64 strings we will then decrypt.
-![DNS Command Input](dnsinput.png))
+[![DNS Command Input](dnsinput.png))](dnsinput.png)
 
 After loading the script into memory, we can call the Decrypt-String function and return the value:
 
@@ -117,7 +117,7 @@ whoami
 Running through the strings, there are a variety of other common post-exploit commands, but no flags.... so let's look at the output.
 
  It is pretty easy to see the output chunks (duplicates due to send and receive) when you extract the `A` records to a column:
- ![DNS Command Output](dnsoutput.png))
+ [![DNS Command Output](dnsoutput.png))](dnsoutput.png)
 
  Unfortunately, the encryption happens through creating HEX strings with `[System.BitConverter]::ToString` and there wasn't an easy way to reverse that in powershell where `Decrypt-String` expects base64.
 
