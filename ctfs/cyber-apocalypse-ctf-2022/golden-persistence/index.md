@@ -2,9 +2,9 @@
 layout: default
 title: Rewdog.com
 ---
-# [Cyber Apocalypse CTF 2022 from HackTheBox](../) - Mutation Lab
+# [Cyber Apocalypse CTF 2022 from HackTheBox](../) - Golden Persistence
 
-* **Category:** Web
+* **Category:** Forensics
 * **Points:** 300 points
 
 ## Challenge

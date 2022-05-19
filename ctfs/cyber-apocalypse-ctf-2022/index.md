@@ -19,7 +19,7 @@ title: Rewdog.com
 - ~~[Omega One](omega-one)~~ Coming Soon
 
 ## Forensics
-- ~~[Puppeteer](puppeteer)~~ Coming Soon
+- [Puppeteer](puppeteer)TL;DR version
 - [Golden Persistence](golden-persistence) TL;DR version
 - [Automation](automation)
 
